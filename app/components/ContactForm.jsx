@@ -1,8 +1,7 @@
 import React, { useState, useRef, useEffect } from "react";
 import FadeIn from "./FadeIn";
 import TextInput from "./TextInput";
-import RadioInput from "./RadioInput";
-import CheckboxInput from "./CheckboxInput";
+import CheckboxInput from "./CheckBoxInput";
 import Button from "./Button";
 
 const ContactForm = () => {
